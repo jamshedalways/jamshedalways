@@ -1,7 +1,8 @@
 
-https://i.ibb.co/wQqMF6n/github-profile.png
-# Hi I'm Jamshed, 👋
-### A passionate frontend developer from Bangladesh
+
+# Hi I'm Jamshed, 👋 <br/>
+### A passionate frontend developer from Bangladesh <br/>
+### 💛 Love to write code
 
 # About me :
 I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into fully responsive websites or applications that run fast.
