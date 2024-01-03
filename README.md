@@ -8,7 +8,7 @@
 I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into fully responsive websites or applications that run fast.
 <hr/>
 
-# Skill and Experience :  <br/>
+### ☑️ Skill and Experience :  <br/>
 ✅ REACT <br/>
 ✅ javaScript <br/>
 ✅ HTML <br/>
