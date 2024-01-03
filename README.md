@@ -1,5 +1,5 @@
 
-![I am Front-End Developer](https://i.ibb.co/tXrvRd9/github-banner.png)
+![I am Front-End Developer]([https://i.ibb.co/rdWmSHd/github-profile-2.png)]
 
 # Hi I'm Jamshed, 👋 <br/>
 ### 🤟 A passionate frontend developer from Bangladesh <br/>
