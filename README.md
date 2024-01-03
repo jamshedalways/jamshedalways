@@ -6,7 +6,7 @@ https://i.ibb.co/wQqMF6n/github-profile.png
 # About me :
 I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into fully responsive websites or applications that run fast.
 <hr/>
-### 🔥 My Skill and Experience : <br/>
+### 🏆 Skills and Experience : <br/>
 ✅ REACT <br/>
 ✅ javaScript <br/>
 ✅ HTML <br/>
@@ -67,10 +67,12 @@ I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed desi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamshedalways)](https://github.com/ryo-ma/github-profile-trophy)
 
+### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshedalways&show_icons=true&count_private=true) 
 
-### :fire: My Stats :
+### :fire: My streak Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamshedalways&theme=dark&background=000000)](https://git.io/streak-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshedalways&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
