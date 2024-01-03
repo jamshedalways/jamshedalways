@@ -11,7 +11,7 @@ I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed desi
 ✅ javaScript <br/>
 ✅ HTML <br/>
 ✅ CSS <br/>
-✅ Tailwindcss <br/>
+✅ Tailwindcss <br/><br/>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript,nextjs 
