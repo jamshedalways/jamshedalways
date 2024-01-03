@@ -1,7 +1,7 @@
 
-
+https://i.ibb.co/rdWmSHd/github-profile-2.png
 # Hi I'm Jamshed, 👋 <br/>
-### A passionate frontend developer from Bangladesh <br/>
+### 🤟 A passionate frontend developer from Bangladesh <br/>
 ### 💛 Love to write code
 
 # About me :
