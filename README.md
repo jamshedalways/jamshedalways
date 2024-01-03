@@ -6,12 +6,12 @@ https://i.ibb.co/wQqMF6n/github-profile.png
 # About me :
 I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into fully responsive websites or applications that run fast.
 <hr/>
-### ☑️: Skills and experience :  
-✅ REACT 
-✅ javaScript 
-✅ HTML
-✅ CSS
-✅ Tailwindcss
+### :fire: My Skill and Experience : <br/> 
+✅ REACT <br/>
+✅ javaScript <br/>
+✅ HTML <br/>
+✅ CSS <br/>
+✅ Tailwindcss <br/>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript,nextjs 
@@ -41,7 +41,7 @@ I’m Jamshed, a frontend Web Developer, creative coder and self-proclaimed desi
 </div>
 <hr/>
 
-🛰️ Connect With Me :
+### :fire: Connect With Me :
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
